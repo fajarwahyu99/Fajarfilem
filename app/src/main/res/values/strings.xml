@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cari Film Aja</string>
+
+    <string name="search_movie_btn">Cari</string>
+    <string name="search_movie_hint">Cari Film</string>
+    <string name="blank_field_search">Harus Terisi</string>
+    <string name="unknown_string">Tidak Tahu</string>
+    <string name="close_btn">Keluar</string>
+    <string name="emptyorerror">Kosong</string>
+
+    <string name="share_cont_desc">Bagikan</string>
+    <string name="movie_image_cont_desc">Gambar</string>
+    <string name="release">Tayang</string>
+    <string name="title">Judul</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
